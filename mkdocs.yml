@@ -1,0 +1,28 @@
+site_name: ThreatScope
+site_description: Explore your cyber threat landscape by industry and countries.
+site_url: https://sekoia-io.github.io/ThreatScope/
+repo_url: https://github.com/SEKOIA-IO/threatscope
+repo_name: SEKOIA-IO/threatscope
+nav:
+- Home: index.md
+- Usage: usage.md
+- API: api.md
+- Development: dev.md
+theme:
+  name: material
+  features:
+  - navigation.sections
+  - navigation.tracking
+  - content.code.copy
+  - content.action.edit
+  - toc.integrate
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - toc:
+      permalink: true
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/SEKOIA-IO/threatscope
