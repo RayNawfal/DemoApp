@@ -85,8 +85,3 @@ GET /users/me
 ```bash
 curl -X GET "https://threatscope.com/users/me" -H "Authorization: Bearer <your_access_token>"
 ```
-
-
-Section C:
-
-I wrote the documentation for these two API functions to clearly explain what information you need to send, what you will get back, and how errors are handled, using straightforward active voice language.
