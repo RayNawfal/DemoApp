@@ -1,16 +1,14 @@
-# A short tagline for the homepage.
+# A short tagline for the homepage
 
-Taglines: 
+**"Threats don’t sleep and neither should your defenses."** <br/>
+**"Because cyber threats don’t take days off."**
 
-- **"Threats don’t sleep and neither should your defenses."**
-- **"Because cyber threats don’t take days off."**
-- **"Laziness is a threat’s best ally—fight it with ThreatScope."**
-- **"Cyber threats won’t get lazy. Neither can your defenses."**
+These example taglines highlight the relentless nature of the cybersecurity landscape, which evolves and grows more sophisticated every day, while emphasizing the need to stay vigilant. They convey urgency and responsibility, motivating users to remain proactive without sounding fearmongering. 
 
-This tagline highlights the relentless nature of cyber threats, emphasizing the need for constant vigilance. It creates a sense of urgency and responsibility, motivating users to stay proactive without sounding fearmongering. The phrase is memorable and professional, aligning well with a brand focused on continuous threat monitoring and protection like ThreatScope.
+**"Cyber threats won’t give you a heads-up but we will."**
 
-**"Cyber threats won’t give you a heads-up — but we will."**
-
-This tagline uses a conversational tone that makes the serious topic of cybersecurity more relatable. It highlights ThreatScope’s value in providing proactive warning and awareness, filling the gap left by unpredictable attacker behavior. The casual phrasing keeps it approachable while the message remains focused and professional, fitting well within a cybersecurity brand’s voice.
+This tagline uses a conversational, direct, yet friendly tone that makes the serious topic of cybersecurity more approachable. It emphasizes ThreatScope’s value in providing proactive warnings and awareness in a simple way. The casual phrasing keeps it accessible, while the message stays focused and professional—well suited to a cybersecurity product.
 
 **"Threats come knocking. We make sure they leave empty-handed."**
+
+This tagline uses a simple metaphor to frame cyberattacks as intruders at the door. The phrasing is direct and confident, while the light touch of humor makes the message memorable and approachable. It conveys the protection ThreatScope provides protection in a way that feels strong and reassuring without relying on overly technical language or the outdated, overused scare tactics common in cybersecurity.
