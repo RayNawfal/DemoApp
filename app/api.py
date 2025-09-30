@@ -142,5 +142,3 @@ async def query_threats_lite(
 
     items = query_threats(industry, countries, type_filter, risk_filter)
     return {"items": items}
-
-
