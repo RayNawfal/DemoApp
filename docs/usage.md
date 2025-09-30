@@ -17,5 +17,3 @@ Use the ThreatScope application by following these steps:
 4. **View** relevant threats:
 
     Click the **Show my threat landscape** button to generate a customized view of current cyber threats including threat actors, malware and risk levels targeted to your selected industry, regions and filter criteria.
-
-Ready to get started? <a href="https://threatscope-i0tj.onrender.com/" target="_blank">Try ThreatScope now</a> to explore your organization’s cyber risks.
