@@ -24,12 +24,12 @@ flowchart TD
     N --> S
     O --> S
 
-    P[Threat actors exploit vulnerabilities] --> Q[Use social engineering]
-    P --> R[Deploy APTs – Advanced Persistent Threats]
+    P[Threat actors<br/>exploit vulnerabilities] --> Q[Use social engineering]
+    P --> R[Deploy APTs<br/> Advanced Persistent Threats]
 
-    T[ThreatScope provides real-time visibility] --> U[Exposes vulnerabilities]
+    T[ThreatScope provides<br/>real-time visibility] --> U[Exposes vulnerabilities]
     U --> V[Delivers actionable intelligence]
     V --> W[Timely remediation]
-    W --> X[Strengthens defenses and reduces risk]
+    W --> X[Strengthens defenses <br/>and reduces risk]
     
 ```
